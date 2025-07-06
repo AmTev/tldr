@@ -4,6 +4,12 @@ Generate concise, AI-powered summaries for your blog posts using the TLDR plugin
 
 ---
 
+## Example Video
+
+[[Watch Here!](https://vimeo.com/1099170110)](https://vimeo.com/1099170110?share=copy)
+
+---
+
 ## 🔧 Features
 
 - Automatically generate TLDR summaries using [TurboLine AI](https://platform.turboline.ai)
